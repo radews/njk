@@ -71,7 +71,7 @@ Zdalne repozytorium:
     fetch - pobieranie zmian ze zdalnego repozytorium
     pull -  wykonanie zmian pobranych fetchem
     merge origin/master - synchronizacja zdalnego repozytorium z lokalnym w razie potrzeby
-
+j
 
 do edycji:
     Fork - kopia głównego repozytorium. Gdy nie możemy commitować w głównym repo
